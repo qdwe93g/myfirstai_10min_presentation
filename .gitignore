@@ -1,0 +1,4 @@
+# Examples 1 and 2 show that only source/config files were added (.md in example 1), so output nothing
+
+# In this case, only a markdown file was added, which is a source/config file
+# No build artifacts, dependencies, or temp files detected
